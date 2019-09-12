@@ -10,3 +10,9 @@
 
 #Latihan Multi Dimension 4
 ![Alt Text](https://github.com/lethanfadlil/JobSheet-Array/blob/master/Array%20-%20NetBeans%20IDE%208.2%2012_09_2019%2011_17_58.png)
+
+#Praktikum 1
+![Alt Text](https://github.com/lethanfadlil/JobSheet-Array/blob/master/Array%20-%20NetBeans%20IDE%208.2%2012_09_2019%2011_32_22.png)
+
+#Praktikum 2
+![Alt Text](https://github.com/lethanfadlil/JobSheet-Array/blob/master/Array%20-%20NetBeans%20IDE%208.2%2012_09_2019%2011_32_28.png)
